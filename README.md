@@ -15,8 +15,9 @@ Si todos los elementos del subconjunto pertenecen a una única clase, este nodo 
 ## Ganancia de información
 Es la diferencia de la entropía antes y después de la división del conjunto. En otras palabras, cuánta incertidumbre se redujo después de dividir el conjunto por el atributo A.
 
-IMAGEN
+![alt text](https://github.com/SoufianeAatab/PracticaLP-Haskell/blob/main/2.png)
 
+La ganancia en la información es igual a la entropia del conjunto antes de la division menos la entropia despues de dividir el conjunto por el atributo A
 
 ## Installation
 Para poder ejecutar la práctica hace falta el compilador de Haskell ghci.
@@ -30,7 +31,8 @@ Para compilar ejecuta el siguiente comando:
 Al ejecutar el programa, este va a proceder a generar el árbol de decisiones a partir de la muestra "agaricus-lepiota.data".
 Una vez generado el programa espera un input:
 
-imagen
+![alt text](https://github.com/SoufianeAatab/PracticaLP-Haskell/blob/main/1.png)
+
 
 ## Webgrafía
 
